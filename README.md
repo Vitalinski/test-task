@@ -1,13 +1,11 @@
 Test Task
 Description
 
-This project is a Todo App built with Vue 3 and TypeScript.
-
-Login: To log in, use the name and phone number of any user from JSONPlaceholder Users API.
+Login: To log in, use the username and phone number of any user from [JSONPlaceholder Users API](https://jsonplaceholder.typicode.com/users).
 
 User Info: After login, the top section displays the logged-in user’s information.
 
-Todos: The bottom section shows a table of todos.
+Todos: The todos are displayed in a table using list virtualization, rendering 10 items at a time for better performance.
 
 Features
 
